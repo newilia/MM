@@ -1,0 +1,6 @@
+sceneSetups:
+- path: "Assets/OutBlock/_Workspace/AlexanderChernyshev_HomeWork/Test/Test_\u041C\u0430\u0441\u0448\u0442\u0430\u0431\u0438\u0440\u0443\u0435\u043C\u0430\u044F
+    \u043B\u043E\u043A\u0430\u0446\u0438\u044F.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
